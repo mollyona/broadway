@@ -1,0 +1,48 @@
+.header h1 {
+  font-size: 70px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.header {
+  background-image: url(/Users/mollyerickson/Documents/Projects/broadway/resources/images/background.png);
+  text-align: center;
+  color: white;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+.header h2 {
+  font-size: 23px;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
